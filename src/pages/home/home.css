@@ -1,0 +1,20 @@
+page-home .img-list {
+  display: flex; }
+  page-home .img-list .preview {
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 33.33%;
+    bordre: 2px solid #fff;
+    height: 7rem;
+    line-height: 7rem;
+    overflow: hidden;
+    background: #eee; }
+page-home .add-photo {
+  width: 25%;
+  border: 1px solid #ccc;
+  background: #e8e8e8;
+  text-align: center; }
+  page-home .add-photo .md-add {
+    font-size: 7rem; }
+
+/*# sourceMappingURL=home.css.map */
